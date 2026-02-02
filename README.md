@@ -1,5 +1,7 @@
 ### About Me
-Hi! I am a home student currently re-taking my alevels. 
+Hi! I am a Mathematics with Computer Science Student. 
 
 ### Langauges
-I am currently using GDScript. Used C# for 3 years. 
+GDScript for my RPG
+Python for University
+C# during High School
