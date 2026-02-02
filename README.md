@@ -1,7 +1,5 @@
 ### About Me
-Hi! I am Josh & I am studying Maths with Computer Science. I am currently making a game in Godot using GDScript and writing Python scripts for University!
+Hi! I am Josh & I am studying BSc Maths with Computer Science (Hons). I am currently making a game in Godot using GDScript and writing Python scripts for University! My online alias is @ootytootie.
 
 ### Langauges
-GDScript for my RPG
-Python for University
-C# during High School
+Python, GDScript, C#
